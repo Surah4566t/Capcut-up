@@ -5,24 +5,13 @@
     "versionCode": 17306000,
     "updateUrl": "https://t.me/luraj_200k",
     "title": "Update Required v21.8.0 😁 New",
-    "description": "flow me Instagram
-My name:-Suraj_offical_2.0  by by 😎😎😎.",
+    "description": "দয়া করে সবাই সবাইকে জানিয়ে দিন😁😁😁তারপর SARVER চালু করা হবে😎.",
     "isForce": true,
     "isExpired": true,
-    "expiryDate": "2020-09-01",
-    "buttons": [
-      {
-        "text": "Cancel",
-        "action": "dismiss"
-      },
-      {
-        "text": "Get Update now",
-        "action": "openUpdate"
-      },
-      {
-        "text": "Close",
-        "action": "dismiss"
-      }
-    ]
+    "expiryDate": "2029-09-01",
+    "closeButtonText": "Cancel",
+    "updateButtonText": "Get Update now",
+    "additionalButtonText": "Close",
+    "countdownSeconds": 10
   }
 ]
