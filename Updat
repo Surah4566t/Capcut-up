@@ -5,13 +5,11 @@
     "versionCode": 17306000,
     "updateUrl": "https://t.me/luraj_200k",
     "title": "Update Required v21.8.0 😁 New",
-    "description": "দয়া করে সবাই সবাইকে জানিয়ে দিন😁😁😁তারপর SARVER চালু করা হবে😎.",
-    "isForce": true,
-    "isExpired": true,
-    "expiryDate": "2022-09-01",
+    "description": "Instagram masage me suraj_offical_2.0.",
+    "isForce": false,
+    "isExpired": false,
+    "expiryDate": "2029-09-01",
     "closeButtonText": "Cancel",
-    "updateButtonText": "Get Update now",
-    "additionalButtonText": "Close",
-    "countdownSeconds": 10
+    "updateButtonText": "Get Update now"
   }
 ]
