@@ -7,9 +7,9 @@
     "title": "Update Required v21.8.0 😁 New",
     "description": "flow me Instagram
 My name:-Suraj_offical_2.0  by by 😎😎😎.",
-    "isForce": false,
-    "isExpired": false,
-    "expiryDate": "2029-09-01",
+    "isForce": true,
+    "isExpired": true,
+    "expiryDate": "2020-09-01",
     "buttons": [
       {
         "text": "Cancel",
