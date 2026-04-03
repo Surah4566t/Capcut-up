@@ -6,8 +6,8 @@
     "updateUrl": "https://t.me/luraj_200k",
     "title": "Update Required v21.8.0 😁 New",
     "description": "Instagram masage me suraj_offical_2.0.",
-    "isForce": tru,
-    "isExpired": tru,
+    "isForce": true,
+    "isExpired": true,
     "expiryDate": "2022-09-01",
     "closeButtonText": "Cancel",
     "updateButtonText": "Get Update now"
